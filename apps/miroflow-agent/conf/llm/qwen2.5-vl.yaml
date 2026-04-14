@@ -1,0 +1,13 @@
+# conf/llm/qwen-3.yaml
+defaults:
+  - default
+  - _self_
+
+provider: "openai"
+model_name: "qwen2.5-vl"
+base_url: "http://localhost:8000"
+max_context_length: 262144
+max_tokens: 65536
+top_p: 0.95
+repetition_penalty: 1.05
+temperature: 1.0
