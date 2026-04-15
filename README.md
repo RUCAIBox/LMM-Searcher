@@ -144,7 +144,15 @@ bash scripts/collect_trace_seed18.sh
 ## Citation
 
 ```
-
+@misc{du2026longhorizonagenticmultimodalsearch,
+      title={Towards Long-horizon Agentic Multimodal Search}, 
+      author={Yifan Du and Zikang Liu and Jinbiao Peng and Jie Wu and Junyi Li and Jinyang Li and Wayne Xin Zhao and Ji-Rong Wen},
+      year={2026},
+      eprint={2604.12890},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.12890}, 
+}
 ```
 
 ## Acknowledgments
