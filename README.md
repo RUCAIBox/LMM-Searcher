@@ -12,6 +12,17 @@
 ## 📢 News
 * **[2026-04-15]** We release the paper and code for **Towards Long-horizon Agentic Multimodal Search**.
 
+
+
+## 💻 Demo
+
+https://github.com/user-attachments/assets/720b6e46-af4f-4527-a69a-cc66f1d00978
+
+
+
+
+
+
 ## 💡 Overview
 
 While deep search agents have achieved significant success in complex problem-solving, extending them to multimodal domains introduces a critical challenge: the information explosion caused by the high token cost of visual inputs. To fundamentally mitigate the context explosion problem, we propose a scalable multimodal search framework:
