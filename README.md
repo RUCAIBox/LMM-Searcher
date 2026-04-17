@@ -1,7 +1,7 @@
 # Towards Long-horizon Agentic Multimodal Search
 
 <p align="center">
-  <a href="https://arxiv.org/abs/xxxx.xxxxx"><b>[📜 Paper]</b></a> •
+  <a href="[https://arxiv.org/abs/xxxx.xxxxx](https://arxiv.org/abs/2604.12890)"><b>[📜 Paper]</b></a> •
   <a href="https://github.com/RUCAIBox/LMM-Searcher"><b>[🏠 Project Page]</b></a> •
   <a href="https://huggingface.co/datasets/your-repo"><b>[📊 Dataset]</b></a> •
   <a href="https://huggingface.co/your-repo"><b>[🤗 Models]</b></a>
